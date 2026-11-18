@@ -1,0 +1,10 @@
+# RL-Driven Adaptive Sensing and Cascaded Inference for TinyML
+# Requirements Specification
+
+# Core numerical & signal processing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Optional PyTorch & visualization backend
+torch>=1.12.0
+matplotlib>=3.5.0

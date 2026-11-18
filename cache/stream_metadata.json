@@ -1,0 +1,15 @@
+{
+  "total_windows": 2000,
+  "window_duration_sec": 0.25,
+  "total_stream_duration_sec": 500.0,
+  "healthy_windows": 1989,
+  "fault_windows": 11,
+  "fault_percentage": 0.5499999999999999,
+  "bursts": [
+    {
+      "start_window": 701,
+      "end_window": 712,
+      "length": 11
+    }
+  ]
+}
